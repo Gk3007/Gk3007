@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gk3007
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning IBM professional Data science certification
+-I'm also pursuing MS(Research) in Aerospace Engineering in IIT Kanpur.
 - 💞️ I’m looking to collaborate on any projects on Data science or Data analysis
 - 📫 How to reach me gokulkrishnanselva@gmail.com
 
